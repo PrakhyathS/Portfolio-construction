@@ -5,12 +5,9 @@ Negative quadratic skewness is a risk measure proposed by [Cajas (2023)](https:/
 $$
 \begin{aligned}
 \min_{x, \nu} \; & \nu \\
-\text{s.t.} &  \| V^{1/2}x \| \leq \nu\\
-& \sum^{n}_{i=1}x_{i} = 1 \\
+\text{s.t.} &  \| V^{1/2}x \| \leq \nu \\
+&\sum_{i=1}^n x_i = 1 \\
 & x \geq 0 \\
 \end{aligned}
 $$
 
-Where \( V = -\sum^{N}_{i=1} S^{-}_i \), \(\nu\) is an auxiliary variable representing the square root of the negative quadratic skewness, \( S^{-}_i \) is the component with negative eigenvalues of the coskewness tensor face \( i \), and \( x \) is the portfolio weight vector.
-
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
