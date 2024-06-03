@@ -1,4 +1,4 @@
-# 1. Negative Quadratic Skewness
+# Negative Quadratic Skewness
 
 Negative quadratic skewness is a risk measure proposed by [Cajas (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540021) that approximates the negative component of a portfolio's skewness using a quadratic form. Minimizing the negative component of skewness allows for an increase in the portfolio's skewness, which is desirable for asset managers. The optimization of negative quadratic skewness can be obtained by solving the following problem:
 
