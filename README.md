@@ -1,6 +1,9 @@
-# Objective
+# Constructing and Managing Portfolios in Quantitative Wealth and Investment Management (QWIM)
 
-We investigate three portfolio construction methods and improve on classical portfolio models (e.g., Markowitz).
+## Objective
+
+We investigate and enhance three portfolio construction methods to improve upon classical portfolio models, such as those developed by Markowitz. The aim is to refine and optimize portfolio management strategies in quantitative wealth and investment management.
+
 
 ## 1. Network Approach
 
